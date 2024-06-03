@@ -1,0 +1,11 @@
+1.Light year is a unit of : (a) Time (b) Mass (c) Distance (d) Energy
+2. The magnitude of any physical quantity: (a) Depends on the method of measurement (b) Does not depend on the method of measurement (c) Is more in SI system than in CGS system (d) Directly proportional to the fundamental units of mass, length and time
+3. One second is equal to (a) 1650763.73 time periods of clock (b) 652189.63 time periods of clock (c) 1650763.73 time periods of clock (d) 9192631770 time periods of clock
+4. If the unit of length and force be increased four times, then the unit of energy is: (a) Increased 4 times (b) Increased 8 times (c) Increased 16 times (d) Decreased 16 times
+6. Tesla is a unit for measuring: (a) Magnetic moment (b) Magnetic induction (c) Magnetic intensity (d) Magnetic pole strength
+7. Universal time is based on (a) Rotation of the earth on its axis (b) Earth's orbital motion around the earth (c) Vibrations of cesium atom (d) Oscillations of quartz crystal
+8. Which of the options has two quantities that have different dimensions: (a) Reynold’s number and coefficient of friction (b) Curie and frequency of light (c) Latent heat and gravitation constant (d) Planck’s constant and angular momentum
+9. Brakes in truck can produce a maximum retardation of 2 m/s2. Minimum distance required by truck moving with speed 4 m/s for stopping if reaction time of the driver is 0.2 sec, is :- (A) 4 m (B) 4.2 m (C) 4.8 m (D) 5.2 m
+10. An object is taken to a height above the surface of earth at a distance (5/4)R from the centre of the earth. Where radius of earth, R = 6400 km. The percentage decrease in the weight of the object will be: options are :   (A) 36%               (B) 50%               (C) 64%                (D) 25%
+11. In a potentiometer arrangement, a cell of emf 1.20 V gives a balance point at 36 cm length of wire. This cell is now replaced by another cell of emf 1.80 V. The difference in balancing length of potentiometer wire in above conditions will be _______ cm.
+12. A projectile is fired from horizontal ground with speed v and projection angle θ. When the acceleration due to gravity is g, the range of the projectile is d. If at the highest point in its trajectory, the projectile enters a different region where the effective acceleration due to gravity is g(eff)= g/0.81, then the new range is D = nd. The value of n is _____
